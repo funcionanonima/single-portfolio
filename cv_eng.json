@@ -1,0 +1,298 @@
+{
+  "basics": {
+    "name": "Cristian David Gaviria Zapata",
+    "label": "Full Stack Developer (MERN) more than 5 years of experience",
+    "image": "/me.png",
+    "email": "cristiandgaviria@hotmail.com",
+    "phone": "+3108645574",
+    "url": "#",
+    "summary": "+5 years of experience as web developer. I'm focusing on MERN stack at the moment. I´m living in Colombia, with possibilities of residing in spain. I have knowlegde on diferent environments and frameworks like Laravel, Django, React Native. \n with enphasis in React library working at front end. I have the availability and enthusiasm for learning new tchnologies and/or work environments.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Medellín",
+      "countryCode": "ES",
+      "region": "Colombia"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "funcionanonima",
+        "url": "https://www.linkedin.com/in/cristian-gaviria-zapata-a0685120a/"
+      },
+      {
+        "network": "GitHub",
+        "username": "funcionanonima",
+        "url": "https://github.com/funcionanonima"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Green",
+      "position": "Front End Developer",
+      "url": "",
+      "startDate": "2021-11-01",
+      "endDate": "2022-01-01",
+      "summary": "I provided support in the construction of the FRONTEND application in the REACT library. Receiving data from a DJANGO backend in JSON format. Applying the best practices and corresponding hooks.",
+      "highlights": []
+    },
+    {
+      "name": "ADBConsultores",
+      "position": "FullStack Laravel",
+      "startDate": "2020-10-01",
+      "endDate": "2021-06-30",
+      "url": "#",
+      "summary": "I developed a task platform using the LARAVEL framework. Database with their rerspective relathionships and normalization. An API to consume the information, UI for users, Ui for admins. (Login, session, management, middlewares, management of both static and dynamic information, generation of reports)",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "SENA",
+      "url": "https://www.sena.edu.co/es-co/Paginas/default.aspx",
+      "area": "Technologist in software analysis and development",
+      "studyType": "Technology",
+      "startDate": "2018-06-01",
+      "endDate": "2020-07-14",
+      "score": "4.0",
+      "courses": [
+        "Basic SQL",
+        "Basic PHP",
+        "Basic Python",
+        "Basic Java",
+        "Basic Javascript"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Web Developer",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "Web Developer",
+        "Frontend",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "Web Developer",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Advanzed",
+      "keywords": [
+        "Web Developer",
+        "Frontend",
+        "CSS Framework",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Advanzed",
+      "keywords": [
+        "Web Developer",
+        "Frontend",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Advanzed",
+      "keywords": [
+        "Web Developer",
+        "Backend",
+        "JavaScript",
+        "Server"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Advanzed",
+      "keywords": [
+        "data Bases",
+        "SQL",
+        "Data Storage",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Advanzed",
+      "keywords": [
+        "Version Control",
+        "Collab",
+        "Source Code"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Advanzed",
+      "keywords": [
+        "Version Control",
+        "Collab",
+        "Source Code",
+        "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Advanzed",
+      "keywords": [
+        "Web Developer",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Advanzed",
+      "keywords": [
+        "Web Developer",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    },
+    {
+      "name": "GNULinux",
+      "level": "Medium",
+      "keywords": [
+        "sys admin"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native Languaje"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanzed B2"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Camicommerce",
+      "github": "https://github.com/funcionanonima/camicommerce",
+      "isActive": true,
+      "description": "Ecommerce fullstack MERN clon",
+      "highlights": [
+        "Ecommerce",
+        "PayPal",
+        "Hooks react",
+        "ExpressJS"
+      ],
+      "url": "https://camicommerce.vercel.app/"
+    },
+    {
+      "name": "DashBoard",
+      "github": "https://github.com/funcionanonima/nextjs-dashboard",
+      "isActive": true,
+      "description": "nextJS tutorial v14",
+      "highlights": [
+        "NextJS"
+      ],
+      "url": "https://nextjs-dashboard-gray-phi-85.vercel.app/dashboard"
+    },
+    {
+      "name": "Store API",
+      "github": "https://github.com/funcionanonima/store",
+      "isActive": false,
+      "description": "expressJS store backend",
+      "highlights": [
+        "ExpressJS",
+        "MongoDB",
+        "Mongoose",
+        "JWTAuth"
+      ],
+      "url": "https://youtu.be/43OV0m0ZZp0"
+    },
+    {
+      "name": "Tagram",
+      "github": "",
+      "isActive": false,
+      "description": "Instagram MERN clon",
+      "highlights": [
+        "ExpressJS",
+        "MongoDB",
+        "Mongoose",
+        "ReactJS",
+        "MERN"
+      ],
+      "url": "https://youtu.be/C9Qb4QqXdeM"
+    }
+  ]
+}

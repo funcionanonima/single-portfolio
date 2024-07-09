@@ -1,0 +1,32 @@
+---
+import Layout from '@/layouts/Layout.astro'
+
+import Experience from '@/components/sections/Experience.astro'
+import About from '@/components/sections/About.astro'
+import Skills from '@/components/sections/Skills.astro'
+import Education from '@/components/sections/Education.astro'
+import Projects from '@/components/sections/Projects.astro'
+import Hero from '@/components/sections/Hero.astro'
+import Languages from '@/components/sections/Languages.astro'
+---
+
+<!-- <Layout title='Portafolio Cristian Gaviria'> -->
+<Layout title='Portfolio Cristian Gaviria'>
+	<main>
+		<Hero />
+		<About />
+		<Experience />
+		<Education />
+		<Languages />
+		<!-- <Projects /> -->
+		<Skills />
+	</main>
+</Layout>
+
+<style>
+	main {
+		padding: 4rem;
+		margin: auto;
+		width: 100%;
+	}
+</style>
